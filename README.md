@@ -1,5 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on 'Classroom Communication Aide'
+Link: [Personal Portfolio](https://ziming-l.github.io/)
+🔭 I’m currently working on 'Talk 2 My Lawyer'
 
 <!--
 **Ziming-L/Ziming-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
