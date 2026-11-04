@@ -1,8 +1,6 @@
 ## Hi there 👋
 Link: [Personal Portfolio](https://ziming-l.github.io/)
 
-🔭 I’m currently working on 'AskZizo'
-
 <!--
 **Ziming-L/Ziming-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
